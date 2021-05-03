@@ -16,7 +16,7 @@ TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬�
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/DarkZEKI/nuebalobot2
+> git clone https://github.com/DavidGODcyber/davidbot
 > cd nuebalobot2
 > npm install
 ```
