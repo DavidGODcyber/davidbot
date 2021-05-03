@@ -93,10 +93,10 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *║┊:* 💻𝗮𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 *%muptime*
 *║┊:* 📁𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: %totalreg numeros
 *║┊:* 👑𝐌𝐲 𝐜𝐚𝐧𝐚𝐥 𝐝𝐞 𝐲𝐨𝐮𝐭𝐮𝐛𝐞
-*║┊:* 
+*║┊:* (no tengo xd chupala)
 *║┊:* 𝑇ℎ𝑎𝑛𝑘𝑠 𝑡𝑜 
-*║┊:* @DarkZE
-*team tu abuela*
+*║┊:* @DavidGOD
+*team DavidGOD*
 %readmore
 *╭═┅〘🛑 𝗢𝗯𝗲𝗱𝗲𝗰𝗲 𝗹𝗮𝘀 𝗿𝗲𝗴𝗹𝗮𝘀 🛑〙*
 *▌║✙*❌𝑷𝒓𝒐𝒉𝒊𝒃𝒊𝒅𝒐 𝒍𝒍𝒂𝒎𝒂𝒓 𝒂𝒍 𝒃𝒐𝒕📲
